@@ -50,8 +50,12 @@ while True:
     print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT 
+CLIENT
 
 ![image](https://github.com/NivethaKumar30/2c.ARP_RARP_PROTOCOLS/assets/119559844/b0dad906-08f2-4545-860f-c89358a286d5)
+
+
+SERVER
 
 
 ![image](https://github.com/NivethaKumar30/2c.ARP_RARP_PROTOCOLS/assets/119559844/94705d47-e736-4b24-829a-0ea83971bf4a)
