@@ -58,6 +58,4 @@ SERVER
 
 ![image](https://github.com/NivethaKumar30/2c.ARP_RARP_PROTOCOLS/assets/119559844/94705d47-e736-4b24-829a-0ea83971bf4a)
 
-## RESULT
-Thus, the python program for simulating ARP protocols using TCP was successfully 
-executed.
+## RESULTThus, the python program for simulating ARP protocols using TCP was successfully executed.
