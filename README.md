@@ -23,7 +23,6 @@ REG NO: 21222223012
 ```
 ```
 CLIENT:
-
 import socket 
 s=socket.socket() 
 s.bind(('localhost',9000)) 
@@ -37,9 +36,7 @@ while True:
             except KeyError: 
                 c.send("Not Found".encode())
 ```
-
 SERVER :
-
 ```
 import socket 
 s=socket.socket() 
